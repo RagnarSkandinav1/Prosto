@@ -1,4 +1,2 @@
-while True:
-      print  (" hello world")
-      
-      
+print('Hello, world!')
+print('This is a python-script!')
